@@ -86,13 +86,3 @@ Then, push the code to GitHub and connect the repository to **[Vercel](https://v
 
 
 
----
-
-##  Purpose of This Project
-This landing page clone is built exclusively for the **Internship Assignment**   
-It demonstrates:
-
-- Ability to replicate complex UI and animations.
-- Proficiency in **Next.js**, **TypeScript**, and **Tailwind CSS**.
-- Knowledge of **responsive design principles**.
-- Clean, maintainable, and production-ready code.
