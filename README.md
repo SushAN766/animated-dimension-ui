@@ -34,16 +34,11 @@ This project is developed as part of an **internship assignment** to demonstrate
 
 ---
 ##  Screenshots
-
-
-
 ### Desktop View
 ![Desktop Screenshot](./src/assets/screenshots/desktop-view.png)
-
+---
 ### Mobile View
 ![Mobile Screenshot](./src/assets/screenshots/mobile-view.jpg)
-
-
 ---
 
 ##  Installation & Setup
@@ -58,7 +53,7 @@ cd animated-dimension-ui
 
 # Install dependencies
 npm install
----
+
 ```
 ##  Run the Development Server
 Start the local development server:
