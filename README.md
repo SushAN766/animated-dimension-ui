@@ -38,10 +38,10 @@ This project is developed as part of an **internship assignment** to demonstrate
 
 
 ### Desktop View
-![Desktop Screenshot](animated-dimension-ui\src\assets\screenshots\desktop-view.png)
+![Desktop Screenshot](./src/assets/screenshots/desktop-view.png)
 
 ### Mobile View
-![Mobile Screenshot](animated-dimension-ui\src\assets\screenshots\mobile-view.jpg)
+![Mobile Screenshot](./src/assets/screenshots/mobile-view.jpg)
 
 
 ---
